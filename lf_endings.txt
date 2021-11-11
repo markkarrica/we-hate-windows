@@ -1,0 +1,1 @@
+This file\nhas LF\nendings\n:P
