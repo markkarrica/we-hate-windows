@@ -1,1 +1,4 @@
-This file\nhas LF\nendings\n:P
+This file
+has LF
+endings
+:P
